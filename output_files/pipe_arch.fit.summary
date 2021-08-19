@@ -1,0 +1,11 @@
+Fitter Status : Successful - Fri May 21 18:21:53 2021
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : pipe_arch
+Top-level Entity Name : pipe_arch
+Family : MAX V
+Device : 5M2210ZF324C5
+Timing Models : Final
+Total logic elements : 0 / 2,210 ( 0 % )
+Total pins : 1 / 271 ( < 1 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
