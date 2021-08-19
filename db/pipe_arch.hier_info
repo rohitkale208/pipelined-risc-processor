@@ -1,0 +1,13 @@
+|pipe_arch
+clk => if_inst[0].CLK
+clk => if_inst[1].CLK
+clk => if_inst[12].CLK
+clk => if_inst[13].CLK
+clk => if_inst[14].CLK
+clk => if_inst[15].CLK
+clk => ex_ma_alu_op~1.DATAIN
+clk => id_rg_alu_op~1.DATAIN
+clk => rg_ex_alu_op~1.DATAIN
+clk => if_id_alu_op~11.DATAIN
+
+
