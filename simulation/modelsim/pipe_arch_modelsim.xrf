@@ -1,0 +1,5 @@
+vendor_name = ModelSim
+source_file = 1, C:/intelFPGA_lite/18.1/PD_Project/pipe_arch.v
+source_file = 1, C:/intelFPGA_lite/18.1/PD_Project/db/pipe_arch.cbx.xml
+design_name = pipe_arch
+instance = comp, \clk~I , clk, pipe_arch, 1
